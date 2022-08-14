@@ -8,7 +8,7 @@ const obj1 = {};
 const obj2 = new Object();
 
 const ellie = {name : 'ellie', age: 4}
-print(ellie);
+// print(ellie);
 
 //with Javascript magic (dynamically typed language)
 ellie.hasjob =true;
